@@ -1,7 +1,7 @@
-# partners
+# Partners
 Partner ecosystem management is made in this module
 
-## requirements
+## Requirements
 When a request came from a customer we try to find a partner to assign this project to.
 
 ### Data needed from partners
